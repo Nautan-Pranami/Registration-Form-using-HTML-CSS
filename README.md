@@ -2,6 +2,9 @@
 
 This project is a basic registration form built using HTML for structure and CSS for styling. It includes standard fields like username, email, password, and other typical input elements found in registration forms. The design is clean and responsive, making it suitable for a variety of projects.
 
+![{A23A9CC9-40E9-44F7-AA8A-39EC47292B39}](https://github.com/user-attachments/assets/772505c5-dc30-430b-8789-2ecbef77611c)
+
+
 ### Features:
 - **User Input Fields**: 
   - Text fields for username, email, and other personal information.
